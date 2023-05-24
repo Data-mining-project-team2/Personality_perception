@@ -1,1 +1,2 @@
 # Personality_perception
+In this project, different techniques are deployed to mine the social media handle datasets such as tweets, and subsequently use it to train a machine learning model to classify the different personality traits based on their online behaviors. Focus will be to given to classify personalities into the Big Five Personality Types (Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism) after careful exploration and analysis of numerous personality traits expressed by the SNS data available freely online.
